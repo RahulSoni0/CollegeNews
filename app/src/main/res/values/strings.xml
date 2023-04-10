@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CollegeNews</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="category_array">
+        <item>Academics</item>
+        <item>Fee</item>
+        <item>Training and Placements</item>
+        <item>Sports</item>
+        <item>Techinal Fests</item>
+        <item>Cultural Fests</item>
+        <item>Student Wellfare</item>
+        <item>Hostel</item>
+        <item>Mess</item>
+    </string-array>
+</resources>

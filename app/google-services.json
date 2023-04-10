@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451157144762",
+    "firebase_url": "https://collegenews-31e1f-default-rtdb.firebaseio.com",
+    "project_id": "collegenews-31e1f",
+    "storage_bucket": "collegenews-31e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451157144762:android:9631ce330b3f0f6f08be83",
+        "android_client_info": {
+          "package_name": "com.example.collegenews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451157144762-c2e8q9lv7i3r0niorvh426qsns0jso3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByHZmfZLyiW3vB5m_zhvu36GRtid6J2H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451157144762-c2e8q9lv7i3r0niorvh426qsns0jso3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
